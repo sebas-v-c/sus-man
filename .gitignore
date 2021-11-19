@@ -9,4 +9,4 @@ export_presets.cfg
 data_*/
 
 # Directory with trash
-./working
+working/
